@@ -7,7 +7,7 @@ locally falls more in line with cryptocurrencies ideal.
 
 
 
-To run this properly these are the following steps to take:
+To run this properly these are the following steps to type on the terminal:
 
 _____
 
