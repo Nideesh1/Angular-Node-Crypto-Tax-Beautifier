@@ -12,10 +12,14 @@ To run this properly these are the following steps to take:
 _____
 
 npm install csvtojson
+
 npm install cryptocompare
 
+
 node server.js
+
 grunt serve (while keeping the node server running)
+
 
 The csv file is file which has a few trades from Bittrex. I have also included 
 the price of BTC (hour by hour) for the months of Aug-Dec 2017. Feel free to 
